@@ -13,5 +13,8 @@ exercise2:
 exercise3:
 	$(CC) $(CFLAGS) ex3/*.cpp -o ex3/output
 
+exercise4:
+	$(CC) $(CFLAGS) traffic-model/*.cpp -o traffic-model/output
+
 clean:
-	rm -f ex1/output ex2/output ex3/output
+	rm -f ex1/output ex2/output ex3/output traffic-model/output
