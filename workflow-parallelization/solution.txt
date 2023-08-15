@@ -1,0 +1,13 @@
+Part A steps: 
+
+1. copy over using cp
+2. submit job using sbatch - sbatch sweep_bondbreak.sh
+3. check status = jobperf ${jobuuid_from_step2} sacct, queue
+3. analyze outputs of output file genereated from script
+
+Part B steps:
+1. Get time taken to run script from sacct - 13 mins 9 seconds
+2. add GNU parallel code to for loop
+3. submit to sched using sbatch - sbatch sweep+bondbrak.sh
+4. new time taken - 28 seconds
+5. add to repo

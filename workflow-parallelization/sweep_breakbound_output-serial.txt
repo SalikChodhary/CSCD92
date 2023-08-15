@@ -1,0 +1,525 @@
+Repetition 1/96
+
+real	0m12.556s
+user	0m5.333s
+sys	0m0.092s
+Repetition 2/96
+
+real	0m15.131s
+user	0m11.535s
+sys	0m0.046s
+Repetition 3/96
+
+real	0m2.882s
+user	0m2.807s
+sys	0m0.049s
+Repetition 4/96
+
+real	0m11.518s
+user	0m11.460s
+sys	0m0.036s
+Repetition 5/96
+
+real	0m11.413s
+user	0m11.335s
+sys	0m0.048s
+Repetition 6/96
+
+real	0m16.047s
+user	0m9.259s
+sys	0m0.048s
+Repetition 7/96
+
+real	0m11.313s
+user	0m11.231s
+sys	0m0.051s
+Repetition 8/96
+
+real	0m11.450s
+user	0m11.390s
+sys	0m0.029s
+Repetition 9/96
+
+real	0m11.415s
+user	0m11.359s
+sys	0m0.034s
+Repetition 10/96
+
+real	0m12.522s
+user	0m11.497s
+sys	0m0.044s
+Repetition 11/96
+
+real	0m9.917s
+user	0m9.846s
+sys	0m0.043s
+Repetition 12/96
+
+real	0m11.443s
+user	0m11.375s
+sys	0m0.039s
+Repetition 13/96
+
+real	0m0.283s
+user	0m0.236s
+sys	0m0.032s
+Repetition 14/96
+
+real	0m11.570s
+user	0m11.519s
+sys	0m0.028s
+Repetition 15/96
+
+real	0m0.348s
+user	0m0.272s
+sys	0m0.036s
+Repetition 16/96
+
+real	0m4.779s
+user	0m4.702s
+sys	0m0.038s
+Repetition 17/96
+
+real	0m11.598s
+user	0m11.536s
+sys	0m0.040s
+Repetition 18/96
+
+real	0m0.288s
+user	0m0.234s
+sys	0m0.035s
+Repetition 19/96
+
+real	0m3.264s
+user	0m3.201s
+sys	0m0.045s
+Repetition 20/96
+
+real	0m8.377s
+user	0m8.311s
+sys	0m0.046s
+Repetition 21/96
+
+real	0m11.646s
+user	0m11.571s
+sys	0m0.050s
+Repetition 22/96
+
+real	0m7.099s
+user	0m7.031s
+sys	0m0.041s
+Repetition 23/96
+
+real	0m11.392s
+user	0m11.335s
+sys	0m0.037s
+Repetition 24/96
+
+real	0m0.297s
+user	0m0.231s
+sys	0m0.037s
+Repetition 25/96
+
+real	0m7.272s
+user	0m7.125s
+sys	0m0.051s
+Repetition 26/96
+
+real	0m11.454s
+user	0m11.392s
+sys	0m0.041s
+Repetition 27/96
+
+real	0m0.297s
+user	0m0.230s
+sys	0m0.042s
+Repetition 28/96
+
+real	0m4.701s
+user	0m4.647s
+sys	0m0.036s
+Repetition 29/96
+
+real	0m11.431s
+user	0m11.374s
+sys	0m0.036s
+Repetition 30/96
+
+real	0m11.456s
+user	0m11.384s
+sys	0m0.049s
+Repetition 31/96
+
+real	0m11.508s
+user	0m11.440s
+sys	0m0.039s
+Repetition 32/96
+
+real	0m0.288s
+user	0m0.231s
+sys	0m0.039s
+Repetition 33/96
+
+real	0m2.055s
+user	0m2.009s
+sys	0m0.027s
+Repetition 34/96
+
+real	0m11.434s
+user	0m11.363s
+sys	0m0.046s
+Repetition 35/96
+
+real	0m11.486s
+user	0m11.416s
+sys	0m0.046s
+Repetition 36/96
+
+real	0m11.486s
+user	0m11.409s
+sys	0m0.040s
+Repetition 37/96
+
+real	0m0.288s
+user	0m0.222s
+sys	0m0.047s
+Repetition 38/96
+
+real	0m0.279s
+user	0m0.217s
+sys	0m0.049s
+Repetition 39/96
+
+real	0m3.614s
+user	0m3.565s
+sys	0m0.033s
+Repetition 40/96
+
+real	0m11.541s
+user	0m11.472s
+sys	0m0.047s
+Repetition 41/96
+
+real	0m11.476s
+user	0m11.395s
+sys	0m0.049s
+Repetition 42/96
+
+real	0m11.403s
+user	0m11.337s
+sys	0m0.035s
+Repetition 43/96
+
+real	0m11.438s
+user	0m11.370s
+sys	0m0.040s
+Repetition 44/96
+
+real	0m11.594s
+user	0m11.518s
+sys	0m0.048s
+Repetition 45/96
+
+real	0m5.961s
+user	0m5.901s
+sys	0m0.040s
+Repetition 46/96
+
+real	0m11.401s
+user	0m11.336s
+sys	0m0.044s
+Repetition 47/96
+
+real	0m11.493s
+user	0m11.425s
+sys	0m0.035s
+Repetition 48/96
+
+real	0m11.384s
+user	0m11.317s
+sys	0m0.047s
+Repetition 49/96
+
+real	0m11.400s
+user	0m11.336s
+sys	0m0.044s
+Repetition 50/96
+
+real	0m5.968s
+user	0m5.904s
+sys	0m0.035s
+Repetition 51/96
+
+real	0m11.452s
+user	0m11.386s
+sys	0m0.043s
+Repetition 52/96
+
+real	0m0.281s
+user	0m0.238s
+sys	0m0.030s
+Repetition 53/96
+
+real	0m11.521s
+user	0m11.438s
+sys	0m0.034s
+Repetition 54/96
+
+real	0m11.344s
+user	0m11.267s
+sys	0m0.049s
+Repetition 55/96
+
+real	0m11.419s
+user	0m11.354s
+sys	0m0.037s
+Repetition 56/96
+
+real	0m11.461s
+user	0m11.391s
+sys	0m0.047s
+Repetition 57/96
+
+real	0m11.428s
+user	0m11.358s
+sys	0m0.042s
+Repetition 58/96
+
+real	0m7.650s
+user	0m7.582s
+sys	0m0.043s
+Repetition 59/96
+
+real	0m10.827s
+user	0m10.759s
+sys	0m0.040s
+Repetition 60/96
+
+real	0m5.908s
+user	0m5.833s
+sys	0m0.051s
+Repetition 61/96
+
+real	0m10.854s
+user	0m10.794s
+sys	0m0.038s
+Repetition 62/96
+
+real	0m11.414s
+user	0m11.298s
+sys	0m0.052s
+Repetition 63/96
+
+real	0m11.682s
+user	0m11.523s
+sys	0m0.048s
+Repetition 64/96
+
+real	0m11.363s
+user	0m11.289s
+sys	0m0.046s
+Repetition 65/96
+
+real	0m11.552s
+user	0m11.484s
+sys	0m0.040s
+Repetition 66/96
+
+real	0m0.306s
+user	0m0.238s
+sys	0m0.046s
+Repetition 67/96
+
+real	0m11.438s
+user	0m11.313s
+sys	0m0.041s
+Repetition 68/96
+
+real	0m0.283s
+user	0m0.235s
+sys	0m0.032s
+Repetition 69/96
+
+real	0m4.587s
+user	0m4.526s
+sys	0m0.041s
+Repetition 70/96
+
+real	0m11.377s
+user	0m11.311s
+sys	0m0.041s
+Repetition 71/96
+
+real	0m11.490s
+user	0m11.426s
+sys	0m0.037s
+Repetition 72/96
+
+real	0m11.397s
+user	0m11.323s
+sys	0m0.041s
+Repetition 73/96
+
+real	0m11.403s
+user	0m11.339s
+sys	0m0.042s
+Repetition 74/96
+
+real	0m0.313s
+user	0m0.241s
+sys	0m0.045s
+Repetition 75/96
+
+real	0m0.293s
+user	0m0.234s
+sys	0m0.033s
+Repetition 76/96
+
+real	0m11.488s
+user	0m11.419s
+sys	0m0.044s
+Repetition 77/96
+
+real	0m11.512s
+user	0m11.452s
+sys	0m0.038s
+Repetition 78/96
+
+real	0m0.282s
+user	0m0.228s
+sys	0m0.039s
+Repetition 79/96
+
+real	0m0.281s
+user	0m0.229s
+sys	0m0.039s
+Repetition 80/96
+
+real	0m11.408s
+user	0m11.353s
+sys	0m0.033s
+Repetition 81/96
+
+real	0m8.802s
+user	0m8.715s
+sys	0m0.057s
+Repetition 82/96
+
+real	0m0.294s
+user	0m0.228s
+sys	0m0.043s
+Repetition 83/96
+
+real	0m2.841s
+user	0m2.790s
+sys	0m0.034s
+Repetition 84/96
+
+real	0m8.031s
+user	0m7.964s
+sys	0m0.043s
+Repetition 85/96
+
+real	0m11.448s
+user	0m11.390s
+sys	0m0.038s
+Repetition 86/96
+
+real	0m10.017s
+user	0m9.932s
+sys	0m0.053s
+Repetition 87/96
+
+real	0m8.979s
+user	0m8.915s
+sys	0m0.038s
+Repetition 88/96
+
+real	0m11.354s
+user	0m11.263s
+sys	0m0.049s
+Repetition 89/96
+
+real	0m11.430s
+user	0m11.364s
+sys	0m0.039s
+Repetition 90/96
+
+real	0m0.293s
+user	0m0.234s
+sys	0m0.037s
+Repetition 91/96
+
+real	0m0.279s
+user	0m0.234s
+sys	0m0.032s
+Repetition 92/96
+
+real	0m11.492s
+user	0m11.433s
+sys	0m0.035s
+Repetition 93/96
+
+real	0m0.283s
+user	0m0.229s
+sys	0m0.038s
+Repetition 94/96
+
+real	0m11.382s
+user	0m11.324s
+sys	0m0.037s
+Repetition 95/96
+
+real	0m5.160s
+user	0m5.091s
+sys	0m0.037s
+Repetition 96/96
+
+real	0m11.537s
+user	0m11.476s
+sys	0m0.038s
+345.047399998114
+0.08369999999999989
+1.4297999999999134
+160.1805000004133
+0.027900000000000064
+105.41459999966511
+179.47290000105374
+290.6439000014621
+246.04590000326374
+0.0525000000000002
+246.8040000032889
+0.040800000000000135
+158.0082000003412
+0.03780000000000012
+63.64260000024868
+0.0774
+0.0342000000000001
+117.6854999994912
+92.09729999985386
+200.54190000175316
+202.85190000182985
+0.05580000000000022
+261.2106000032735
+374.9900999962712
+198.3414000016801
+377.83349999609624
+0.05040000000000019
+0.05100000000000019
+152.70840000016526
+323.7887999994223
+0.10199999999999956
+0.060600000000000244
+0.0522000000000002
+0.0660000000000002
+394.1816999950901
+303.5442000006682
+0.07560000000000003
+91.24709999986591
+275.92020000236823
+347.8499999979415
+312.50790000011654
+0.09539999999999968
+0.04560000000000016
+0.0345000000000001
+172.83000000083322
