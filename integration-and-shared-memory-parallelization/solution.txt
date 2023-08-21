@@ -1,0 +1,23 @@
+1. Write a (serial) program that calculates the integral of 4/(1+x^2) between xi=0 and xf=1.
+For doing this, one could approximate the integral as follows h SUM (4/( 1 + xi^2)) with i varying from 1 to N, where xi = i*h, h = 1/N. This is known as the left Riemann sum.
+
+Done, check serial-implemetation.cpp
+
+2. Verify your implementation comparing against the expected analytical solution, which should be "pi".
+
+With my original implementation, I had N set to 1000, and my answer was 3.14059. The error is around 0.001
+
+3. Provide an estimate of the numerical error and possible causes. Justify this with some nunerical experimentation.
+
+Error = ~0.001
+
+This error directly correlates to the size of N. A higher N brings us closer to the expected result - pi. In other words, as N -> infinity, out soultion approaches pi. The reason for this error is natural, due to the setup of the integral - Left Riemann sum's. This method will never be able to exactly guess the area under a non-trivial curve, as it basically adds the area of many small rectangles. The top left corner of the rectangle aligns with the curve. but the top right corner, will never be on the curve. Hence, the result is close, but not exact. To bring us closer to the expected result, one can just increase the size of N.
+
+4. Parallelize your implementation using a shared-memory approach.
+
+in parllel-implementation.cpp
+
+5. Perform an scaling analysis, by comparing the runtime in different cases, e.g. serial, and multiple number of threads.
+Plot your results generating an scaling curve for your implementation. Recall to perform your scaling analyis in an appropiate setup, i.e. not running in a shared resource in the system. 
+
+edited parallel-implementation.cpp
