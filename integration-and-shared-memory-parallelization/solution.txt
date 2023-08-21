@@ -20,4 +20,4 @@ in parllel-implementation.cpp
 5. Perform an scaling analysis, by comparing the runtime in different cases, e.g. serial, and multiple number of threads.
 Plot your results generating an scaling curve for your implementation. Recall to perform your scaling analyis in an appropiate setup, i.e. not running in a shared resource in the system. 
 
-edited parallel-implementation.cpp
+in scaling-analysis.cpp, the submitted one is weak scaling, easy to edit to strong scaling, just dont loop over N, and set to 100,00 (or something else)
